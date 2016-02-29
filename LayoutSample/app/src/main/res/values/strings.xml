@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LayoutSample</string>
+    <string name="title_activity_layout_sample">LayoutSampleActivity</string>
+    <string name="button_string">Press Me</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SceneTransitions</string>
+    <string name="action_settings">Settings</string>
+    <string name="one_string">ONE</string>
+    <string name="two_string">TWO</string>
+    <string name="three_string">THREE</string>
+</resources>

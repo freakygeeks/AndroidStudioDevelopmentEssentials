@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExplicitIntent</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_b">ActivityB</string>
+    <string name="button1">ASK QUESTIONS</string>
+    <string name="textView1" />
+    <string name="button2">ANSWER QUESTION</string>
+    <string name="editText2" />
+    <string name="answer_text">ANSWER QUESTION</string>
+    <string name="ask_text">ASK QUESTIONS</string>
+</resources>

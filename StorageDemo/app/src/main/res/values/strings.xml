@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StorageDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_string">NEW</string>
+    <string name="open_string">OPEN</string>
+    <string name="save_string">SAVE</string>
+</resources>
